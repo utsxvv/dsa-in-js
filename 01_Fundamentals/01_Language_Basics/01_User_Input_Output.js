@@ -2,7 +2,7 @@
 Input Output 
 #Easy
 
-Complete the function printNumber which takes an integer input from the user and prints it on the screen.
+Problem Statement: Complete the function printNumber which takes an integer input from the user and prints it on the screen.
 ----------------------------------------------------------------------------------------------------------
 Example:
 
