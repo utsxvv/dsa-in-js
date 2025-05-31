@@ -30,6 +30,7 @@ Output:
 * * * * 
 * * * * * 
 * * * * * *
+
 */
 
 class Solution {
